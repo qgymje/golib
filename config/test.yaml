@@ -1,0 +1,10 @@
+app:
+    name: event_logger
+    version: 0.0.1
+    env: dev
+
+
+logger:
+    filename: "./logger/test.log"
+    log_level: 1
+        
